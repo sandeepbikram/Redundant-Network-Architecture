@@ -131,9 +131,10 @@ Base address block: **192.168.1.0 /22** (1,024 hosts)
 | File                 | Description                                   |
 | -------------------- | --------------------------------------------- |
 | `NetworkDesign.pkt`  | Complete Packet Tracer topology & configs     |
-| `README.md`          | This documentation                            |
-| `diagrams/`          | Visio/PNG versions of topology diagrams       |
-| `configs/`           | Folder containing final device configurations |
+| `README.md`          | Project Description                           |
+| `Network Design.md`  | This Document file                            |
+| `Topology.png/`      | Visio/PNG versions of topology diagrams       |
+| `Config Files/`      | Folder containing final device configurations |
 
 ---
 
@@ -142,6 +143,6 @@ Base address block: **192.168.1.0 /22** (1,024 hosts)
 1. Clone this repo.
 2. Open **CompanyNetwork.pkt** in Cisco Packet Tracer 8.2 or later.
 3. Follow the validation checklist to observe expected behaviour.
-4. Modify device configs under `configs/` as needed.
+4. Modify device configs under `Config Files/` as needed.
 
-> *Happy labbing!*  Feel free to raise issues or submit PRs for improvements.
+> *Happy labbing!*  Feel free to raise issues or submit ideas for improvements.
