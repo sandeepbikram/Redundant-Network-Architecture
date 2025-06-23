@@ -130,10 +130,10 @@ Base address block: **192.168.1.0 /22** (1,024 hosts)
 
 | File                 | Description                                   |
 | -------------------- | --------------------------------------------- |
-| `NetworkDesign.pkt`  | Complete Packet Tracer topology & configs     |
+| `Network Design.pkt`  | Complete Packet Tracer topology & configs     |
 | `README.md`          | Project Description                           |
 | `Network Design.md`  | This Document file                            |
-| `Topology.png/`      | Visio/PNG versions of topology diagrams       |
+| `Topology.png`       | Visio/PNG versions of topology diagrams       |
 | `Config Files/`      | Folder containing final device configurations |
 
 ---
