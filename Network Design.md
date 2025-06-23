@@ -1,5 +1,4 @@
 # 🏢 Company Network Design – Case Study
-![Network Topology](https://github.com/user-attachments/assets/e83b1183-34ef-4f36-a8ee-0399ad230211)
 
 ## 📋 Project Overview
 
