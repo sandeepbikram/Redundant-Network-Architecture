@@ -22,10 +22,6 @@ This project demonstrates practical enterprise networking concepts such as hiera
 
 ---
 
-## 📁 Files Included
-- `CompanyNetwork.pkt` – Packet Tracer topology file (optional)
-- `Config Files/` – Configuration files for routers/switches (optional)
-
 ---
 
 ## 👨‍💻 Developed With
