@@ -22,8 +22,6 @@ This project demonstrates practical enterprise networking concepts such as hiera
 
 ---
 
----
-
 ## 👨‍💻 Developed With
 - **Cisco Packet Tracer** v8.x
 - Cisco IOS CLI commands
